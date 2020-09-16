@@ -22,6 +22,4 @@ spec:
       enabled: false
     securityContext:
       enabled: true
-      runAsNonRoot: false
       fsGroup: 0
-      runAsUser: 0
